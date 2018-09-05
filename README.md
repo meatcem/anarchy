@@ -1,6 +1,6 @@
 ## STYLE
 
-# overabstracting hinder societal progress
+## overabstracting hinder societal progress
 
 1- homo-sapiens ability to reasons is relative to experience, by scaling new experience on old memories, we either emperically classify, or define new object relative to old experience, planning different future can only be achieved through experimenting, or decoding the past to extend our experience.
 
@@ -14,7 +14,7 @@
 
 6- in engineering the future, each aspect of society must be studied as teleological end of historical evolutionary causes, and by tracing the causal factors, we can reach to the true role, only then a replacement of old system can be done with minimal negative consequences without committing Chesterton's fence fallacy.
 
-# art of social engineering
+## art of social engineering
 
 7- in social engineering a society, social model need to be flexible, in ease of construction, dynamic, ability to adapt to new circumistances by changing directed networks of old model for satisfying old role considering new circumistances, or outcomes, bottom-up, starting with the problems, tracing it's causal factors, and constructing new model based off societal needs discovered.
 
@@ -25,7 +25,7 @@
 
 ## MORAL_CONTRACT
 
-# political evolution, a prospective into despotism, and inequality
+## political evolution, a prospective into despotism, and inequality
 
 1- life is a result of procreation pivoted around the fertile female, biological interaction is directed by the state of nature, with abundance of resources, complexity of interactions changes, for our closest, and ancestral primate foragers, they live in highly interactive systems in demarcated territory mandated by competing troops, the latter pushes territorial troops to control life through domination of female by alpha male physical supremacy, as in chimpanzees, and great apes, therefore life of primates is a high despotic due to lack of the high cognitive functions to bind to moral code. enforcement of domination, sanctioning by bullying, or killing are the usual ways for communicating discontent, and supremacy, alpha male position is maintained by feuds, and continuous display, display of subordinated males was perceived as revolutionary act that perils despotic rule, and prohibited by bullying any competitor.
 
@@ -33,7 +33,7 @@
 
 3- with the end of ice age, and increased aridity in  8Kbr, and 6Kbr, forcing hunter-gather bands toward the rivers for more resources, investing resources in horticulture, and animal husbandry introduced land, and cattle ownership, it  was the second form of appropriation (second ownership), but against same tribe, and village members, the later required warriors to enforce ownership, overriding egalitarian moral ethos of suppressing sharp hunter-gatherers skills by introducing warriors culture rivalry, although warrior power remained democratic, more sedentary lifestyle resulted in passive sharing, and dependence on household resources weakening interdependence relationship between family unites, political power was shifted from heads of hunters toward successful warriors, regressing the degree of egalitarianism toward despotism, from linear direct power to triangular hierarchical power centralized in hand of warriors commander, especially in cases of conflicts.
 
-# subordination of morality
+## subordination of morality
 
 4- rivalry between entities, is overcome by collations, raising hierarchy, the more challenging the target, or predator, the higher the hierarchy, and the more separated from it's body, raising voluntary economical, and political patron over confederation of villages, comes with it's benefits, and disadvantages, with centralizing power in hand of distant chief, duels are easily settled between different tribes, countering external villages coalition's, saves lifes were to be dissipated in intragroup, and tribal wars, and confederation facilitate trade between different villages by the big-man trader, the stability of the confederation stands against hardships compared to tribes, or foragers, but despite the shift in power to big-man, warriors-commander, and chief, they were still subject to public opinion, and needed to legitimize his rule by stability, and equalization.
      
@@ -41,7 +41,7 @@
 
 6- democracy in theory in contrast to egalitarianism is an intangible desire to achieve equalization, but in reality, it's most successful way for legitimizing inequality, and sucking ambivalence, and discontent, in nation of different religions, ideologies, traditions, and cultures, each representing a binding ethos for way of living, such that individual can only belong to one specific ethos (equivalence class), for two arbitrary ethos they might share common interests, aspiration, but also average conflicting philosophies (m), having a nation of (n) different ethos, implies that there is n times m conflicting ideas (degree of conflicts), the more cosmopolitan the city (a manifestation of assimilation) the more conflict can arise, making egalitarian, equalizing law intangible! why law enforcement would be required if it's morally accepted?! the separation of power from it's body in the chieftain was for countering external threats, and simple internal duels, in the state, strength of central power is proportional to degrees of internal conflicts n*m, for state to last with great n*m, tolerance to simple erupts, revolts is essential, in such successful dominating highly-assimilating democratic states, the citizen might have the elusion of freedom of expression, and equality! as long as it have safe ringing on the ears of majority of population, democracy itself is exported by globalization, and implied by it's blended conflicting cultures, ideas, philosophies, and religions.
 
-# resurrection of moral-political society, turning despotism-egalitarian-despotism (V shape) trajectory back into egalitarianism (N shape)
+## resurrection of moral-political society, turning despotism-egalitarian-despotism (V shape) trajectory back into egalitarianism (N shape)
 
 7- with the creation of kingdom, homo-sapiens completely lost their sovereignty by the separation of political power from society in form of classes, hegemony of power, and resources by nobility, and elites perpetuated in forms of states, democratic nations, and most successfully in form of neoliberal state, taking back our sovereignty will required resurrecting egalitarian binding ethos, the moral code that hold the clan, band, tribe together for about 1.8 million years, a 98% of hominoids life! the current ubiquitous separation of power is a baby step against gravity!
 
@@ -51,7 +51,7 @@
 
 10- the coexistence of conflicting ethos, can only be achieved either through authoritarianism of certain ideology, by suppressing others, or democratically, through blending all views in arbitrary one, in both cases giving rise to despotic rule, which can never represent the whole society, and require cutting on freedom, leaving an unequal triangular despotic system. for minimal conflicts between binding ethos, a society must be as conformist as possible in regard to philosophy of living (binding ethos).
 
-# dialectical force between morality, and social contract.
+## dialectical force between morality, and social contract.
 
 11- morality of living is what inherited from accumulating tradition, theology, philosophy or science, they are dynamic, evolving, it's unlimited development of common beliefs. any limitation, such as state law can hinder the development of morality to cope up with change in environment, relations, society, or reforms.
 
@@ -59,7 +59,7 @@
 
 13- in moral-political society social contract can define concrete binding ethos of society with extensive details, through which the bonded members can use it for resolving conflicts for developing evolving binding ethos, contract is optimally written with logical proof for driven conclusion, in that sense, the optimal, most adaptive dynamic contract is ideological philosophical, over divine orders which required god intervention through religious reforms, or inherited untraceable culture which arbitrarily develops, as two extremes of moral social contract, therefore the philosophical ideological society, is the most flexible to cope with hardships, and most eligible for self-propagation, through analyzing new circumistances against old contract, the dialectical force of the two can evolve new version of social contract, and new society with new culture, behavior, and mentality.
 
-# penalization individuals in 21 century
+## penalization individuals in 21 century
 
 14- in egalitarian society of hunter-gathers, morality was enforced by penalizing deviance, through ostracism, execution, gossip, criticism depending on ethos, and degree of deviance from equality. from deterministic prospective, accumulation of knowledge in the 21 century, can enable us to trace any deviance from social contract i.e non-egalitarian, authoritative behavior, etc, if interpreted as economical, psychological, or mental problem and not as source of danger, deterministic any humane action is learned from environment, and affected by genetics, for penalizing humane action, all ancestors, guardians, neighbors, and teachers of the same equivalence class members need to be penalized equality, humane behavior can be optimally corrected, and indoctrinated in the academies for the desired ethos, acting as such can give more insight into innate humane nature, which can help in evolving moral social contract, especially in small society of minimal free-riders where nearly every member is essential of continuation of life! but morally the penalization should be left to interpretation of society members!
 
@@ -67,7 +67,7 @@
 
 16- punitive penalizing law need to be abolished, instead of developing conscience based on fear of assimilating law, working out the solution of deviant behavior cognitively can enhance social behavior in one generation using education.
 
-# penalizing political institutions
+## penalizing political institutions
 
 17- moral-political society is the synergy of integrated communes for facilitating societal needs, each can be on average of size 150 according to Dunbar number if the commune to be democratic.
 
@@ -75,7 +75,7 @@
 
 19- politics is practiced inside the societal communes according to it's philosophy, in moral-political society of conformist binding ideology, different communes is to be established to support the societal needs, and therefor the bigger this society, the bigger the number of communes of common goals, the stronger it gets in confronting environment, or external forces as contrasted to cancerous cosmopolitan city of millions of multi-ethnicity's, multi-cultural of conflicting ideas, the problem is the conflicting ethos, and state law that hinder moral development and reconciliation, and united directed goals, and not the size!
 
-# upper-limit of strength of moral-political society
+## upper-limit of strength of moral-political society
 
 20- society size is upper-limited by the affiliation of advocated ethos.
 
@@ -84,7 +84,7 @@
 
 ## BOOTSTRAPPING
 
-# bootstrapping a commune
+## bootstrapping a commune
 
 1- to achieve self-sufficiency in primary needs communalists are expected to study the land to be occupied, to be rich in resources of energy, and food production.
 
@@ -94,7 +94,7 @@
 
 4- historically political, and religious revolutionary movement evolve around slogan/emblem, and anthem/teachings without investing time in envisioning society, and the movement bubbles to lose it's meaning, in 21's century big portion of accumulation of humane knowledge are rendered with strokes of keys, envisioning and engineering the society is no longer esoteric on the temple, or the university.
 
-# egalitarian revolutionary
+## egalitarian revolutionary
 
 5- the domination, and exploitation of all Earth resources, and unstoppable extravagantly accelerated changes in biosphere proportions is manifestation of the ineffectiveness of the leftists, all movements in the name of leftism run by suppressed oversocialized leftist motivated by inferiority, who can't leave a chance to exhibit their masochist tendencies polarized by sadist state, the term leftism wrap all antagonists to the state order, from egotists, lazy hedonists, to the altruists, the leftists exhibit no uniting vision, and goals, they are corrupted by their conflicting philosophies, if leftist to show seriousness, their movements need to exhibit it by planning the future based on understanding history, to be realists, and not idealists, to face the truth, and not to escape into Utopian goals, to abandon positivism, and follow problems to their roots, otherwise they may enjoy their erotic games, achieving integration with the state, on the other hand, rightist are united by glory of their ancestral golden age, motivated by the malevolence of conflicting ethos, they rise in reminiscence to the seemingly ideal remnants of history, the erotic leftist always seek compromise with the state law to stress priest, or university morality for optimally minimal conflicts, and harmony with social contract to expand their elusive liberty, while the rightist is much more closer the problem of cancerous city, and seeks illumination of conflict ethos, both are corrupted by the assumption of inevitable state!
 
@@ -102,13 +102,13 @@
 
 7- by aggregating statistics of different successful moral-political commune bootstrapping research center results can increase the accuracy of simulating the process using mathematics! and resurrection of egalitarianism as a phenomenon! 
 
-# self-propagation
+## self-propagation
 
 8- assuming sufficient natural resources, revolutionary communalists must have enough expertise, or curiosity to gain it! otherwise chances of self-preservation is low, and proportional to the level of expertise, vulgar farmers can't arrive to grass-root solution, but will resort to the orthodox solutions, for example countering overpopulation requires increasing production by dependence on economical irrigation methods, composting and enhancing soil, engineering genetics to bear contemporary conditions with required growth qualities, the later required building gene bank, and making use of biodiversity, such project would require mathematicians, engineers, bioinformatists, mechanics, with vast research centers, and labs, just to counter one problem for supporting one basic necessity for just survival, to protect against bigger problems of self-defense, water scarcity, and contamination, energy problems, etc, vulgar, illiterate, low-educated can't have high chances in achieving self-preservation. self-preserving self-sufficient commune can only be achieved by sufficient expertise for it's continuations, and not arbitrary communalists, a healthy communalists is one with philosophy coherent with societal binding ethos, and curiosity, or expertise to fit in societal role.
 
 9- to self-propagate a komingeh, new communalists will need to pass through academies of successful self-sufficient commune, until they able to replicate the society completely, otherwise equality, and preservation can't be maintained.
 
-# societal awareness
+## societal awareness
 
 10- society of relatively small size, united by it's consciously morally driven evolving binding ethos, anomalies in philosophy of living is optimally minimal, continuity of live in equal power distribution will burdens every member to seek knowledge sufficient for overcoming societal challenges, questioning, and developing their philosophy according to new circumistances, transferring knowledge to youngesters necessitated by passing of genes, propensity of siblings, each communalist a member of part of societal Mosaic of integral self-sufficient komingeh, altruism will be consciously developed to protect against manipulation, free-riding, low chances of self-preservation, awareness of societal problems, knowledge, philosophy, equal burdens, and share or responsibility will raise the highest societal awareness, of optimally vigilant communalists, and converge the prospering society communalists into equal Socratic philosopher kings.
 
@@ -120,7 +120,7 @@
 
 ## POLITICAL_AUTONOMY
 
-# political autonomy
+## political autonomy
 
 1- survival primary needs are basic needs required for survival which are agriculture, irrigation, food production, drinking water, accommodation, and energy.
 
@@ -142,7 +142,7 @@
 
 10- being economically dependent for survival, give the possibility for domination by cutting supply of basic needs in embargo, or economical sanctioning can bombard the alleged-autonomous society, or state with crises, can and lead to famines in few months, while dependence for self-preservation needs can perils stability, progress, and prosperity, and eventually reducing it's chances of survival, and self-propagation on the long term, if supplies of technology, and knowledge were to be cut.
 
-# territorial autonomy isn't enough for egalitarianism.
+## territorial autonomy isn't enough for egalitarianism.
 
 11- any form of external dependence or influence is potential threat to egalitarianism, and shall be abolished, otherwise alleged-autonomous system is vulnerable to be assimilated by competing self-propagating hegemonous powers for colonizing their resources, constitutional autonomy is more degenerate than involuntary oppression, assimilation, and domination, as the former is voluntary salvation, economically, militarily, or politically colonized countries, or societies administrators will act as ambassadors for the dominating power in their own land, facilitating domination and control.
 
@@ -158,7 +158,7 @@
 
 ## COMMUNE
 
-# moral-political komingeh
+## moral-political komingeh
 
 1- a is moral society organized around binding ethos of philosophy of living, politically democratic of equal political distribution, autonomously sufficient in primary needs economics.
 
@@ -184,7 +184,7 @@
 
 12- research center in commune is responsible for analyzing working methodology, and work productivity, and overtime, communes of common goals methodology will merge fruits of each all philosophies, and can converge to be as minimal as 1, or 2 communes inside the same komingeh, a komingeh is around 5k for V=3 as a best guess! in a small country of 5millions population, a society will be a Confederacy of 1k different komingehs of potentially unique philosophies, and culture, but common confederate self-preservation, and development unity.
 
-# elimination of second ownership in societal-aware communalists, anarchy is equality, anarchy is order!
+## elimination of second ownership in societal-aware communalists, anarchy is equality, anarchy is order!
 
 13- equal political weights implies equal share of resources analogous to phenomenal "randomized share system" of egalitarian society of hunter-gatherers.
 
@@ -200,7 +200,7 @@
 
 19- second ownership of chieftain shall be destroyed! however first ownership is implied by difference in binding ethos!
 
-# komingeh as closed network of communes.
+## komingeh as closed network of communes.
 
 20- komingeh can be perceived as a directed cyclic graph, in which each commune is a node, with set of inputs (resources), and output (services), such closed network wrapping the whole society, and satisfying the basic needs of communalists, is the framework of 21's century egalitarianism, the resurrection of clan equality, and construct of lost anarchism, by the nature of commune autonomy it's weight is the sum of it's communalists, leaving equal distribution of power equalized over the communalists, without overarching authority, top-down order, or domination of resources, sex, knowledge, or philosophy.
 
@@ -208,7 +208,7 @@
 
 ## CONFEDERATION
 
-# egalitarian confederacy
+## egalitarian confederacy
 
 1- confederacy is integration of forces, and resources for maximizing development, survival, and chances of self-preservation.
 
@@ -220,7 +220,7 @@
 
 5- for maintaining egalitarianism on confederacy level, confederated communalists are expected to share equal political weight.
 
-# benevolence of confederation
+## benevolence of confederation
 
 6- confederacy can facilitate knowledge-sharing publicly, or confidentially according to sensitivity of data for advancing research, and administration philosophy, self-propagation of prospering komingehs, leaving definition of prosperity to the confederated members, as well as swap of resources in stretched, or dispersed stretches of land in cases of independence, and population fluctuation.
 
@@ -234,7 +234,7 @@
 
 11- diplomacy commune is for direct representation of the whole society in resolving conflicts, negotiations, and trade, but direct political power still can be maintained in driving decisions.
  
-# independence, and integration.
+## independence, and integration.
 
 12- in moral-political society of relatively limited size, ramification of new ideas, and philosophies of living of binding ethos can occur rapidly, 100 advocate can asymptotically present 15k in few days, or minutes using technology, and with egalitarian characteristic of society, Zara can descend from the mountain without hindrance, leading to unresolved conflicted binding ethos in the worst case scenario, such extreme situation of equal parity of political weight can hinder progress of society, endangering it's egalitarianism by biased political weight, therefore independence, or demarcation for resources is natural to take place for progress of both philosophies, and minimal conflicts of equality.
 
